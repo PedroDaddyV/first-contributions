@@ -8,6 +8,7 @@
 - [double835](https://github.com/double835)
 - [Min Kim](https://github.com/Kim-Min-K)
 - [Akshit Rawat](https://github.com/akshitrawat1)
+- [Peter Egan](https://github.com/PedroDaddyV)
 - [Anushthan Saxena](https://github.com/AnushthanS)
 - [Abhay Jain](https://github.com/MentallyCramped)
 - [Juan Carlos](https://github.com/pads-sama)
